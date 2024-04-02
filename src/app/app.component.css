@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.content {
+    margin-right: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.text {
+    margin-right: 20px;
+}
+
+::ng-deep .dx-data-row .stateGeorgia {
+    background-color:#45e752;
+}
+
+::ng-deep .dx-data-row .stateMinnesota{
+    background-color:#fdb04a;
+}
